@@ -1,3 +1,29 @@
+# GUAVA
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+Official implementation of the paper "GUAVA: Generalizable Upper Body 3D Gaussian Avatar" [ICCV 2025]
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+ICCV 2025 论文《GUAVA：可泛化的上半身 3D 高斯头像》官方实现。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 <p align="center">
   <h1 align="center">[ICCV 2025] GUAVA: Generalizable Upper Body 3D Gaussian Avatar</h1>
 <p align="center">
